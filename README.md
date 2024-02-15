@@ -1,7 +1,6 @@
 ### Hi **ValterBeff**
 
-Universitario de Ciencia da Computação
-*University of Computer Science*
+Universitario de Ciencia da Computação | *University of Computer Science*
 
 ##Estudando/Studying:
 
