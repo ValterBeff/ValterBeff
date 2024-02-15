@@ -13,4 +13,5 @@ Universitario de Ciencia da Computação | *University of Computer Science*
 
 Contato | *Contact* :
 
-<a href="https://instagram.com/valter.beff" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/valtebeff-7050321b9" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monicamhillman/)](https://www.linkedin.com/in/valtebeff-7050321b9/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/monihillman/)](https://www.instagram.com/valter.beff/)
