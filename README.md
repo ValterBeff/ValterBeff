@@ -4,7 +4,6 @@ Rio de Janeiro | RJ | Brasil
 
 Universitario de Ciencia da Computação | *University of Computer Science*
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?valterbeff&layout=compact&langs_count=7&theme=dracula"/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=valterbeff&count_private=true&show_icons=true&theme=radical" /> </p>
 
 ##Estudando | *Studying*:
