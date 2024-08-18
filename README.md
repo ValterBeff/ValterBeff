@@ -4,8 +4,6 @@ Rio de Janeiro | RJ | Brasil
 
 Universitario de Ciencia da Computação | *University of Computer Science*
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=valterbeff&count_private=false&show_icons=false&theme=radical" /> </p>
-
 ##Estudando | *Studying*:
             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />          
