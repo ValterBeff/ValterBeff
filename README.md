@@ -6,7 +6,7 @@
 
 ## 🗣️ Idiomas | *Languages*:
 - 🇧🇷 **Português** (Nativo) | *Portuguese (Native)*
-- 🇬🇧 **Inglês** (Básico ao Intermediário) | *English (Basic to Intermediary)*
+- 🇺🇸 **Inglês** (Básico ao Intermediário) | *English (Basic to Intermediary)*
 
 
 ## 💻 Estudando | *Currently Learning*:
